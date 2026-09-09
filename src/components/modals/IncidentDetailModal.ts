@@ -1,0 +1,1 @@
+export { OutageManagementModal as IncidentDetailModal } from './OutageManagementModal';
